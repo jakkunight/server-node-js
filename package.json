@@ -1,0 +1,22 @@
+{
+  "name": "server-node-js",
+  "version": "1.0.0",
+  "description": "\"Just a simple server for fun.\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakkunight/server-node-js.git"
+  },
+  "author": "Jakku Night",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakkunight/server-node-js/issues"
+  },
+  "homepage": "https://github.com/jakkunight/server-node-js#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
